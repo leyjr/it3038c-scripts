@@ -3,5 +3,7 @@
     }
 
 $IP = getIP
-write-host("This machine's IP is $IP")
-write-host("This machine's IP is {0}" -f $IP)
+$User  = $env:USERNAME
+$Body = "Test"
+
+Send-MailMessage -To "leyjr@mail.uc.edu" -From "leyjared@gmail.com" -Subject "IT3038C Windows SysInfo" -Body $Body -SmtpServer smtp.gmail.com -port 587 -UseSSL -Credential (Get-Credential)
