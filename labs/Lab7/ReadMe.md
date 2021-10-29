@@ -1,0 +1,1 @@
+This is how you can use a powershell plugin called "ComputerManagementDsc" for some conifurations of your windows computer such as renaming computer, joining to a domain/workgroup, and creating a powerplan are naming just a few.
