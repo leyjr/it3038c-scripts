@@ -14,6 +14,9 @@ Configuration Computer_RenameComputerInWorkgroup_Config
         Computer NewName
         {
             Name = 'Server01'
+        }
+    }
+}
 
 This next command would have the computer join a domain.  Again you would alter the code to join a relevant domain. You will need the credential of an admin to the targeted domain.
 
