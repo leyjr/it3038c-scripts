@@ -3,13 +3,11 @@
 
 #changes to the directory where the .exe's are located.
 cd C:\it3038c-scripts\project2
+
 #.\ClearStartMenu.ps1
 #.\ClearTaskbar.bat
 #.\ChromeSetup.exe
 #.\readerdc64_en_ka_cra_install.exe
 
-#Get-DscResource -Module ComputerManagementDsc
 
-#Copy-Item -Path C:\SampleFolder2\* -Destination %userprofile%\Desktop\
-
-.\CleanMyPC.bat
+#.\CleanMyPC.bat
