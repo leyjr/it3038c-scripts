@@ -1,6 +1,10 @@
-This is a script that I hope will be part of a larger project. The goal of this script is to clear certain windows defaults and do some automation of our deployments at my workplace
+This is a script that I hope will be part of a larger project. The goal of this script is to clear certain windows defaults and do some automation of our deployments at my workplace by having a script take care of many of the task we first do on a new machine.
 
-In my script here I just have separate scripts inserted.
+For my script you will want to download the entire contents of the "proj2" folder. This will contain the main "project2.ps1" script but also contain other mini scripts and programs that are installed during my script.
+
+This script makes quite a few settings changes so it would better to do on sandbox environment or watch the video that I will provide of me running it on my systsem.
+
+
 
 This will change to the directory where the .exe's are located.
 cd C:\it3038c-scripts\project2
