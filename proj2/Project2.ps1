@@ -2,12 +2,12 @@
 
 
 #changes to the directory where the .exe's are located.
-cd C:\it3038c-scripts\project2
+cd C:\it3038c-scripts\proj2
 
-#.\ClearStartMenu.ps1
+.\ClearStartMenu.ps1
 #.\ClearTaskbar.bat
-#.\ChromeSetup.exe
-#.\readerdc64_en_ka_cra_install.exe
+.\ChromeSetup.exe
+.\readerdc64_en_ka_cra_install.exe
 
 
-#.\CleanMyPC.bat
+.\CleanMyPC.bat
