@@ -24,5 +24,5 @@ Get-DscResource -Module ComputerManagementDsc
 
 #Copy-Item -Path C:\SampleFolder2\* -Destination %userprofile%\Desktop\
 
-This next part will run a script that does a clean up on the C drive.  The is equivalent to going to the properties of the C drive and doing "Disk Cleanup"
+This next part will run a script that does a clean up on the C drive.  The is equivalent to going to the properties of the C drive and doing "Disk Cleanup".  This will be the last part of the script to do a nice clean up.
 .\CleanMyPC

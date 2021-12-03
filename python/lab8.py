@@ -10,3 +10,4 @@ print(soup)
 #span = soup.find("span", {"class":"gl-price__value gl-price__value--sale"})  
 #price = span.text 
 #print("Item %s has price %s" % (title, price)) 
+

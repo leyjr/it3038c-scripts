@@ -1,0 +1,1 @@
+﻿Copy-Item -Path "C:\it3038c-scripts\project3\SampleDocs\*" -Destination "C:\Users\Public\Desktop" -Recurse
